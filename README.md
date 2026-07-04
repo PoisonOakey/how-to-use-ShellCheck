@@ -1,4 +1,4 @@
-## :question: What is ShellCheck?
+# :question: What is ShellCheck?
 ShellCheck is a static analysis tool that does exactly what PSScriptAnalyzer does, but for `sh`, `bash`, `dash`, and `ksh` scripts. 
 
 ## 🚀 Execution Instructions
